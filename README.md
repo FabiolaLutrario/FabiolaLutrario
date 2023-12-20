@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Fabiola Lutrario</h1>
-<h3 align="center">Soy Desarrolladora Full Stack</h3>
+<h3 align="center">¡Gracias por pasar y revisar mi perfil!</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
