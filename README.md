@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Fabiola Lutrario</h1>
 <h3 align="center">¡Gracias por pasar y revisar mi perfil!</h3>
 
-<p>Soy de Venezuela y vivo en Argentina desde el 2018. Soy profesora de Informática y me formé como desarrolladora full stack en el bootcamp Javascript de Plataforma 5. También realicé capacitaciones sobre Angular y Java en Argentina Programa, y Desarrollo Backend en Java en la academia ADA ITW. Sigo aprendiendo muchas cosas todos los dias y actualemnte me encuentro mejorando proyectos que he desarrollado para deployarlos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor.</p>
+<p>Soy de Venezuela y vivo en Argentina desde el 2018. Soy profesora de Informática y me formé como Desarrolladora Full Stack en el Bootcamp Javascript de Plataforma 5. También realicé capacitaciones sobre Angular y Java en Argentina Programa, y Desarrollo Backend en Java en la academia ADA ITW. Sigo aprendiendo muchas cosas todos los dias y actualmente me encuentro mejorando proyectos que he desarrollado para deployarlos. Creo en que la programación empodera a las personas para lograr su pleno potencial y vivir mejor.</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
