@@ -17,7 +17,7 @@
 ## 🏆 Trofeos GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=FabiolaLutrario&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contribuciones Repo
+### 🔝 Top Contribuciones Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=FabiolaLutrario&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
